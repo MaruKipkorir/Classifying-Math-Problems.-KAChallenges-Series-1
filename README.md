@@ -1,6 +1,6 @@
 # Classifying-Math-Problems.-KAChallenges-Series-1
 
-# TF-IDF Based Text Classification with an Ensemble of LightGBM, SVM, and Naive Bayes.
+## TF-IDF Based Text Classification with an Ensemble of LightGBM, SVM, and Naive Bayes.
 
 This project aims to classify math problems written in natural language into one of eight predefined categories, such as algebra, calculus, and linear algebra. The task is part of a machine learning competition where the goal is to predict the correct topic for each given math problem. [KAChallenges Series 1: Classifying Math Problems](https://www.kaggle.com/competitions/classification-of-math-problems-by-kasut-academy/overview)
 
