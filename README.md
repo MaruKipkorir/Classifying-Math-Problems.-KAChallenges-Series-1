@@ -61,7 +61,7 @@ We train the best-performing models from Optuna and evaluate them on the trainin
 
 The trained ensemble model is used to predict the labels for the test dataset. The results are saved into a CSV file for submission.
 
-### 6. Submission
+### 5. Submission
 
 The final submission consists of the **ID** and predicted **label** for each test sample, saved into a CSV file, ready for evaluation.
 
